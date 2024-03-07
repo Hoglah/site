@@ -1,0 +1,32 @@
+p {
+  font-family: Montserrat;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.cou{
+  font-weight: bold;
+  font-size: 20px;
+  width: 500px;
+  margin-bottom: 4px;
+}
+.beg{
+  color: rgb(85, 83, 83);
+  margin-bottom: 16px;
+}
+.ski{
+  color: black;
+  width: 300px;
+  margin-bottom: 16px;
+}
+.sta{
+  background-color: rgb(20, 179, 20);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  width: 100px;
+}
